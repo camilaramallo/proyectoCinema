@@ -3,7 +3,7 @@ package com.example.springservirestcine.entities;
 
 import javax.persistence.Entity;
 
-@Entity
+//@Entity
 public class PaisDeOrigen {
     private Integer id;
     private String idioma;

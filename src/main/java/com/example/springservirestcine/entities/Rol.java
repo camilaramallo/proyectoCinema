@@ -2,7 +2,7 @@ package com.example.springservirestcine.entities;
 
 import javax.persistence.Entity;
 
-@Entity
+//@Entity
 public class Rol {
     private String nombre;
 

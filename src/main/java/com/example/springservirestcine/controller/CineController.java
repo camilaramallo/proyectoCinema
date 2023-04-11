@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class CineController {
 
-    private CineRepository cineRepository;
+    //private CineRepository cineRepository;
 
-    public CineController(CineRepository cineRepository) {
-        this.cineRepository = cineRepository;
+    public CineController(/*CineRepository cineRepository*/) {
+        //this.cineRepository = cineRepository;
     }
 }

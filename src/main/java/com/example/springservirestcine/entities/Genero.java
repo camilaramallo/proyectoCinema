@@ -3,7 +3,7 @@ package com.example.springservirestcine.entities;
 
 import javax.persistence.Entity;
 
-@Entity
+//@Entity
 public class Genero {
 
     private Integer id;

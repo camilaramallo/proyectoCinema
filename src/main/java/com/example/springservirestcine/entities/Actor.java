@@ -2,8 +2,9 @@ package com.example.springservirestcine.entities;
 
 import javax.persistence.Entity;
 
-@Entity
+//@Entity
 public class Actor {
+    private Integer id;
     private boolean animado;
     private String apellido;
     private String nombre;

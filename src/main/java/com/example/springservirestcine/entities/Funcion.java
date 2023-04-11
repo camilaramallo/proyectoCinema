@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.List;
 
 
-@Entity
+//@Entity
 public class Funcion {
     private int diaSemana;
     private int duracion;

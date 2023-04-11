@@ -3,7 +3,7 @@ package com.example.springservirestcine.entities;
 import javax.persistence.Entity;
 import java.util.Date;
 
-@Entity
+//@Entity
 public class HorarioFuncion {
     private int diaDeSemana;
     private int duracionIntervalo;
