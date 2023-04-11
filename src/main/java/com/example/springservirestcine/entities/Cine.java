@@ -8,7 +8,7 @@ import java.util.Date;
 import java.util.List;
 
 
-@Entity
+//@Entity
 public class Cine {
 
     private String direccion;

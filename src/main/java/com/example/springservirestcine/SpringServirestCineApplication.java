@@ -11,8 +11,8 @@ public class SpringServirestCineApplication {
 
 	public static void main(String[] args) {
 		ApplicationContext context =  SpringApplication.run(SpringServirestCineApplication.class, args);
-		CineRepository reposCine = context.getBean(CineRepository.class);
-		PeliculaRepository reposPelicula = context.getBean(PeliculaRepository.class);
+		//CineRepository reposCine = context.getBean(CineRepository.class);
+		//PeliculaRepository reposPelicula = context.getBean(PeliculaRepository.class);
 	}
 
 }

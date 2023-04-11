@@ -3,7 +3,7 @@ package com.example.springservirestcine.entities;
 
 import javax.persistence.Entity;
 
-@Entity
+//@Entity
 public class Calificacion {
     private Integer id;
     private String nombre;

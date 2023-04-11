@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 
-@Entity
+//@Entity
 public class Entrada {
 
     @Id

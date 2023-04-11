@@ -1,0 +1,2 @@
+insert into pelicula(anioEstreno, disponible, duracion, nombre, tituloOriginal) values (2001, true, 120, 'Chicas Pesadas', 'Mean Girls');
+insert into pelicula(anioEstreno, disponible, duracion, nombre, tituloOriginal) values (1997, true, 180, 'Titanic', 'Titanic');
